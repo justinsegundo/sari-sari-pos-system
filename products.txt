@@ -1,0 +1,9 @@
+kopiko blanca (single),10.0,5
+swack beerbrand,10.0,21
+egg,9.0,30
+kopiko brown double,16.0,100
+tang juice,22.0,5
+keratin,11.0,12
+wings powder orange,8.0,6
+rice,64.0,100
+safeguard,20.0,5

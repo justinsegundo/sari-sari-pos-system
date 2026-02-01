@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="sari-sari-pos-system:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/sari_sari_pos_system_jar</output-path>
+    <root id="archive" name="sari-sari-pos-system.jar">
+      <element id="module-output" name="sari-sari-pos-system" />
+    </root>
+  </artifact>
+</component>
