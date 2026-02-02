@@ -17,7 +17,7 @@ The Sari-Sari POS System is a Java-based point-of-sale application designed for 
 ## Installation
 1. Clone the repository:
 git clone https://github.com/yourusername/sari-sari-pos-system.git
-2. 
+
 2. Open the project in your favorite IDE (IntelliJ IDEA, Eclipse, etc.).
 
 3. Make sure resources/icons/ contains all required icons (plus.png, edit.png, delete.png, price.png, products.png).
