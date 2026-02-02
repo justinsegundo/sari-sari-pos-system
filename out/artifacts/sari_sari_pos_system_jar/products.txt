@@ -1,0 +1,34 @@
+egg,9.0,5
+patis (gagmay),10.0,35
+wings powder,8.0,5
+coffee stick,4.0,51
+suka (gagmay),10.0,5
+coffee double,16.0,8
+beerbrand swack,13.0,5
+sulit bar,6.0,5
+blade,7.0,5
+gapas,9.0,5
+rexona,9.0,21
+makaon dagko,8.0,5
+napkin,8.0,5
+joy,8.0,5
+suka (dako),13.0,2
+pancit canton,14.0,5
+pantyliner,3.0,5
+cheese rings,10.0,5
+keratin shampoo,10.0,5
+labuyo noodles,13.0,5
+patis (dako),13.0,5
+milo,10.0,5
+chlorine,1.0,5
+downy anitibac,8.0,5
+energen,10.0,12
+coffee single,10.0,12
+kamay 1/4,20.0,5
+keratin,10.0,12
+beefloap holiday,24.0,5
+fita biscuit,8.0,5
+diaper,10.0,32
+carne norte (holiday),35.0,23
+corned (beef),42.0,5
+beefloop fiesta,26.0,5
